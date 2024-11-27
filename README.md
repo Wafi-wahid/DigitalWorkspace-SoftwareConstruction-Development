@@ -1,2 +1,2 @@
-# DigitalWorkspace-SoftwareConstruction-Development
+# DigitalWorkspace-SoftwareConstructionAndDevelopment
 Semester Project
