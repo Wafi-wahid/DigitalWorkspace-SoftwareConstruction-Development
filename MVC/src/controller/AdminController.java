@@ -1,7 +1,7 @@
 package controller;
 
 import model.User;
-import model.Workspace;
+import model.Workspace; 
 
 import java.util.ArrayList;
 import java.util.List;
